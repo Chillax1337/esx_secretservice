@@ -7,7 +7,7 @@ server files -> resources -> put the job in there
 
 put "ensure esx_secretservice" or "start esx_secretservice" into the server.cfg
 
-after all, just add "de_esx_policejob.sql" from /localization into you database
+after all, just add "en_esx_policejob.sql" from /localization into you database
 
 DONE!
 
